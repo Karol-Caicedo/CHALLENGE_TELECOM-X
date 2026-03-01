@@ -27,3 +27,20 @@ Financieras: MonthlyCharges, TotalCharges.
 
 Target: Churn (Yes/No).
 
+
+**Instrucciones de Ejecución**
+
+Este proyecto está optimizado para correr en la nube sin necesidad de configuraciones locales complejas.
+
+1. Descargar el archivo
+Descarga el archivo y suberlo a google drive.
+
+2. Carga de Datos
+Ve a google drive y abre el archivo, Dado que Colab utiliza un entorno temporal, debes conectarte a la máquina virtual dando clic en conectar
+
+4. Ejecución
+Dirígete al menú superior y selecciona Entorno de ejecución > Ejecutar todas.
+El notebook procesará automáticamente la limpieza de datos y visualización de gráficos.
+
+
+
