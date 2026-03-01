@@ -17,7 +17,7 @@ Matplotlib & Seaborn: Para la creación de visualizaciones estadísticas avanzad
 Jupyter Notebooks: Como entorno de desarrollo y documentación del análisis.
 
 
-#**El análisis se basó en un diccionario de datos que incluye:**
+**El análisis se basó en un diccionario de datos que incluye:**
 
 Variables Demográficas: Género, SeniorCitizen, Partner, Dependents.
 
